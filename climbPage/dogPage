@@ -1,0 +1,40 @@
+<html>
+<head>
+
+<title>
+Dog Page 
+</title>
+<style>
+
+h1{
+    color: orange;
+    margin-left: 90px;
+
+}
+
+h2{
+ color: blue
+ background-color: green;
+
+}
+
+
+
+</style>
+</head>
+<body bg color="blue">
+
+
+</body>
+<h2> Meet Bucky </h2>
+
+<h1>  
+<ul>
+    <li> He is cute</li>
+    <li> He </li>
+
+
+
+</h1>
+
+</html>
